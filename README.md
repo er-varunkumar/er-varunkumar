@@ -1,6 +1,5 @@
 <div align="center">
 
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Varuun Kumar
 =====================================================================================================================================
 
@@ -10,8 +9,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </div>
 
 ## 👨‍💻 About Me
-
-> "Turning Business Goals into Scalable Tech Solutions"
 
 I'm a strategic leader passionate about bridging the gap between business objectives and technological execution. With expertise in **product strategy, business analysis, and agile leadership**, I specialize in transforming complex challenges into scalable, value-driven solutions.
 
