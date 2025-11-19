@@ -1,14 +1,19 @@
+<div align="center">
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Varuun Kumar
 =====================================================================================================================================
 
 नमस्ते 🙏 | Bonjour
 -------------------
 
+</div>
+
 ## 👨‍💻 About Me
 
 > "Turning Business Goals into Scalable Tech Solutions"
 
-I am a strategic leader at the nexus of business and technology. My focus is on delivering impactful digital products through a disciplined, agile, and data-informed approach.
+I'm a strategic leader passionate about bridging the gap between business objectives and technological execution. With expertise in **product strategy, business analysis, and agile leadership**, I specialize in transforming complex challenges into scalable, value-driven solutions.
 
 | Area of Expertise | What It Means |
 | :--- | :--- |
