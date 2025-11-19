@@ -1,11 +1,6 @@
 <div align="center">
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Varuun Kumar
-=====================================================================================================================================
-
 नमस्ते 🙏 | Bonjour
--------------------
-
 </div>
 
 ## 👨‍💻 About Me
@@ -36,6 +31,15 @@ I'm a strategic leader passionate about bridging the gap between business object
 ![Agile Leadership](https://img.shields.io/badge/Agile-Leadership-purple)
 ![Digital Transformation](https://img.shields.io/badge/Digital-Transformation-red)
 ![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-yellow)
+
+## 📈 My Approach
+
+graph LR
+A[Business Goals] --> B[Analysis & Strategy]
+B --> C[Agile Execution]
+C --> D[Scalable Solutions]
+D --> E[Data-Driven Insights]
+E --> A
 
 ### Socials
 
