@@ -32,7 +32,7 @@ I am a strategic leader at the nexus of business and technology. My focus is on 
 ![Product Management](https://img.shields.io/badge/Product-Management-orange)
 ![Data Analysis](https://img.shields.io/badge/Data-Analysis-green)
 ![Agile Leadership](https://img.shields.io/badge/Agile-Leadership-purple)
-![Digital Transformation](https://img.shields.io/badge/Digital-Transformati on-red)
+![Digital Transformation](https://img.shields.io/badge/Digital-Transformation-red)
 ![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-yellow)
 
 ### Socials
