@@ -52,14 +52,15 @@ I'm a strategic leader passionate about bridging the gap between business object
 
 <div align="left">
 
-<img src="https://raw.githubusercontent.com/er-varunkumar/assets/blob/main/certified_scrum_master_certification_badge.png" width="100" height="100">
-<img src="https://raw.githubusercontent.com/er-varunkumar/assets/blob/main/scrum_alliance%2C_certified_scrum_product_owner_certification_badge.png" width="100" height="100">
+<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/certified_scrum_master_certification_badge.png" width="100" height="100">
+<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/scrum_alliance%2C_certified_scrum_product_owner_certification_badge.png" width="100" height="100">
+<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/enterprise-design-thinking-practitioner.png" width="100" height="100">
 <img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/applied-data-science-python-level2.png" width="100" height="100">
 <img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/data-science-foundations-level-1.png" width="100" height="100">
 <img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/data-science-foundations-level-2-(v2).png" width="100" height="100">
 <img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/machine-learning-with-python-level-1.png" width="100" height="100">
 <img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/python-for-data-science.png" width="100" height="100">
-<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/enterprise-design-thinking-practitioner.png" width="100" height="100">
+
 
 </div>
 
@@ -105,7 +106,7 @@ I'm a strategic leader passionate about bridging the gap between business object
 
 ---
 
-<div align="center">
+<div align="left">
 
 *🎯 All skills verified by IBM through Credly platform with evidence-based validation*
 
