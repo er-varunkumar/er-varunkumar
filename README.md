@@ -48,21 +48,24 @@ I'm a strategic leader passionate about bridging the gap between business object
 <div align="center">
 
 
-## 🏆 Badge Wallet
+# 🏆 Badge Wallet
+
+## IBM Professional Certifications
 
 <div align="center">
 
-### **IBM Professional Certifications**
+[![Applied Data Science with Python - Level 2](https://raw.githubusercontent.com/er-varunkumar/assets/main/Applied%20Data%20Science%20with%20Python%20-%20Level%202.png)](https://raw.githubusercontent.com/er-varunkumar/assets/main/Applied%20Data%20Science%20with%20Python%20-%20Level%202.png)
+[![Data Science Foundations - Level 2](https://raw.githubusercontent.com/er-varunkumar/assets/main/Data%20Science%20Foundations%20-%20Level%202%20(V2).png)](https://raw.githubusercontent.com/er-varunkumar/assets/main/Data%20Science%20Foundations%20-%20Level%202%20(V2).png)
+[![Data Science Foundations - Level 1](https://raw.githubusercontent.com/er-varunkumar/assets/main/Data%20Science%20Foundations%20-%20Level%201.png)](https://raw.githubusercontent.com/er-varunkumar/assets/main/Data%20Science%20Foundations%20-%20Level%201.png)
 
-[![Applied Data Science with Python - Level 2](https://raw.githubusercontent.com/er-varunkumar/assets/main/Applied%20Data%20Science%20with%20Python%20-%20Level%202.png =150x150)](https://raw.githubusercontent.com/er-varunkumar/assets/main/Applied%20Data%20Science%20with%20Python%20-%20Level%202.png)
-[![Data Science Foundations - Level 2](https://raw.githubusercontent.com/er-varunkumar/assets/main/Data%20Science%20Foundations%20-%20Level%202%20(V2).png =150x150)](https://raw.githubusercontent.com/er-varunkumar/assets/main/Data%20Science%20Foundations%20-%20Level%202%20(V2).png)
-[![Data Science Foundations - Level 1](https://raw.githubusercontent.com/er-varunkumar/assets/main/Data%20Science%20Foundations%20-%20Level%201.png =150x150)](https://raw.githubusercontent.com/er-varunkumar/assets/main/Data%20Science%20Foundations%20-%20Level%201.png)
+<br>
 
-[![Machine Learning with Python - Level 1](https://raw.githubusercontent.com/er-varunkumar/assets/main/Machine%20Learning%20with%20Python%20-%20Level%201.png =150x150)](https://raw.githubusercontent.com/er-varunkumar/assets/main/Machine%20Learning%20with%20Python%20-%20Level%201.png)
-[![Python for Data Science](https://raw.githubusercontent.com/er-varunkumar/assets/main/Python%20for%20Data%20Science.png =150x150)](https://raw.githubusercontent.com/er-varunkumar/assets/main/Python%20for%20Data%20Science.png)
-[![Enterprise Design Thinking Practitioner](https://raw.githubusercontent.com/er-varunkumar/assets/main/Enterprise%20Design%20Thinking%20Practitioner.png =150x150)](https://raw.githubusercontent.com/er-varunkumar/assets/main/Enterprise%20Design%20Thinking%20Practitioner.png)
+[![Machine Learning with Python - Level 1](https://raw.githubusercontent.com/er-varunkumar/assets/main/Machine%20Learning%20with%20Python%20-%20Level%201.png)](https://raw.githubusercontent.com/er-varunkumar/assets/main/Machine%20Learning%20with%20Python%20-%20Level%201.png)
+[![Python for Data Science](https://raw.githubusercontent.com/er-varunkumar/assets/main/Python%20for%20Data%20Science.png)](https://raw.githubusercontent.com/er-varunkumar/assets/main/Python%20for%20Data%20Science.png)
+[![Enterprise Design Thinking Practitioner](https://raw.githubusercontent.com/er-varunkumar/assets/main/Enterprise%20Design%20Thinking%20Practitioner.png)](https://raw.githubusercontent.com/er-varunkumar/assets/main/Enterprise%20Design%20Thinking%20Practitioner.png)
 
 </div>
+
 
 
 
