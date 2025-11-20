@@ -45,6 +45,24 @@ I'm a strategic leader passionate about bridging the gap between business object
 ![Digital Transformation](https://img.shields.io/badge/Digital-Transformation-red)
 ![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-yellow)
 
+<div align="center">
+
+## 🛠️ Skills Wallet
+
+**Credly Verified Technical Skills**
+
+| Skill | Evidence | Proficiency |
+|-------|----------|-------------|
+| ![Python](https://img.shields.io/badge/Python-4EAA25?logo=python&logoColor=white) | **4 sources** | Advanced |
+| ![Data Science](https://img.shields.io/badge/Data_Science-8A2BE2) | **3 sources** | Advanced |
+| ![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white) | **2 sources** | Intermediate |
+| ![Statistics](https://img.shields.io/badge/Statistics-4DC730) | **2 sources** | Intermediate |
+| ![Bokeh](https://img.shields.io/badge/Bokeh-FF7F0E) | **1 source** | Intermediate |
+
+*Verified by Credly - Evidence-based skill validation*
+
+</div>
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/er-varunkumar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/er-varunkumar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
