@@ -11,6 +11,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm a strategic leader passionate about bridging the gap between business objectives and technological execution. With expertise in **product strategy, business analysis, and agile leadership**, I specialize in transforming complex challenges into scalable, value-driven solutions.
 
+### **Turning Business Goals into Scalable Tech Solutions**
+
+![Strategy](https://img.shields.io/badge/Strategy-Leader-blue)
+![Digital Transformation](https://img.shields.io/badge/Digital-Transformation-purple)
+![Product Strategy](https://img.shields.io/badge/Product-Strategy-green)
+
+*Driving business growth through technology innovation and data-driven decision making*
+
+
 | Area of Expertise | What It Means |
 | :--- | :--- |
 | **Product & Solution Strategy** | Defining the "why" and "what" – crafting roadmaps that align technology with market needs and business strategy. |
