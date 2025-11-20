@@ -45,26 +45,22 @@ I'm a strategic leader passionate about bridging the gap between business object
 ![Digital Transformation](https://img.shields.io/badge/Digital-Transformation-red)
 ![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-yellow)
 
-<div align="center">
+<div align="left">
 
 
 # 🏆 Badge Wallet
 
 ## IBM Professional Certifications
 
-<div align="center">
+<div align="left">
 
 <!-- First Row -->
-<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/applied-data-science-python-level2.png" width="80" height="80">
-<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/data-science-foundations-level-1.png" width="80" height="80">
-<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/data-science-foundations-level-2-(v2).png" width="80" height="80">
-
-<br>
-
-<!-- Second Row -->
-<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/machine-learning-with-python-level-1.png" width="80" height="80">
-<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/python-for-data-science.png" width="80" height="80">
-<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/enterprise-design-thinking-practitioner.png" width="80" height="80">
+<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/applied-data-science-python-level2.png" width="100" height="100">
+<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/data-science-foundations-level-1.png" width="100" height="100">
+<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/data-science-foundations-level-2-(v2).png" width="100" height="100">
+<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/machine-learning-with-python-level-1.png" width="100" height="100">
+<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/python-for-data-science.png" width="100" height="100">
+<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/enterprise-design-thinking-practitioner.png" width="100" height="100">
 
 </div>
 
