@@ -54,18 +54,17 @@ I'm a strategic leader passionate about bridging the gap between business object
 
 <div align="center">
 
-[![Applied Data Science with Python - Level 2](https://raw.githubusercontent.com/er-varunkumar/assets/main/applied-data-science-python-level2.png)](https://github.com/er-varunkumar/assets/blob/main/applied-data-science-python-level2.png)
-[![Data Science Foundations - Level 1](https://raw.githubusercontent.com/er-varunkumar/assets/main/data-science-foundations-level-1.png)](https://github.com/er-varunkumar/assets/blob/main/data-science-foundations-level-1.png)
-[![Data Science Foundations - Level 2](https://raw.githubusercontent.com/er-varunkumar/assets/main/data-science-foundations-level-2-(v2).png)](https://github.com/er-varunkumar/assets/blob/main/data-science-foundations-level-2-(v2).png)
+<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/applied-data-science-python-level2.png" width="120" height="120">
+<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/data-science-foundations-level-1.png" width="120" height="120">
+<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/data-science-foundations-level-2-(v2).png" width="120" height="120">
 
 <br>
 
-[![Machine Learning with Python - Level 1](https://raw.githubusercontent.com/er-varunkumar/assets/main/machine-learning-with-python-level-1.png)](https://github.com/er-varunkumar/assets/blob/main/machine-learning-with-python-level-1.png)
-[![Python for Data Science](https://raw.githubusercontent.com/er-varunkumar/assets/main/python-for-data-science.png)](https://github.com/er-varunkumar/assets/blob/main/python-for-data-science.png)
-[![Enterprise Design Thinking Practitioner](https://raw.githubusercontent.com/er-varunkumar/assets/main/enterprise-design-thinking-practitioner.png)](https://github.com/er-varunkumar/assets/blob/main/enterprise-design-thinking-practitioner.png)
+<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/machine-learning-with-python-level-1.png" width="120" height="120">
+<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/python-for-data-science.png" width="120" height="120">
+<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/enterprise-design-thinking-practitioner.png" width="120" height="120">
 
 </div>
-
 
 ## 🛠️ Skills Wallet
 
