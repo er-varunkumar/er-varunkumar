@@ -50,11 +50,10 @@ I'm a strategic leader passionate about bridging the gap between business object
 
 # 🏆 Badge Wallet
 
-## IBM Professional Certifications
-
 <div align="left">
 
-<!-- First Row -->
+<img src="https://raw.githubusercontent.com/er-varunkumar/assets/blob/main/certified_scrum_master_certification_badge.png" width="100" height="100">
+<img src="https://raw.githubusercontent.com/er-varunkumar/assets/blob/main/scrum_alliance%2C_certified_scrum_product_owner_certification_badge.png" width="100" height="100">
 <img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/applied-data-science-python-level2.png" width="100" height="100">
 <img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/data-science-foundations-level-1.png" width="100" height="100">
 <img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/data-science-foundations-level-2-(v2).png" width="100" height="100">
@@ -68,22 +67,48 @@ I'm a strategic leader passionate about bridging the gap between business object
 
 ## Credly Verified Skills
 
-### 🐍 Core Technical
-![Python](https://img.shields.io/badge/Python-4_sources-3776AB?logo=python) 
-![Data Science](https://img.shields.io/badge/Data_Science-3_sources-8A2BE2)
-![Scala](https://img.shields.io/badge/Scala-2_sources-DC322F)
-![Statistics](https://img.shields.io/badge/Statistics-2_sources-4DC730)
+### 🐍 Core Technical Skills
 
-### 📊 Data Science Specializations
-![Bokeh](https://img.shields.io/badge/Bokeh-1_source-FF7F0E)
-![Cluster Analysis](https://img.shields.io/badge/Cluster_Analysis-1_source-1F77B4)
-![Data Classification](https://img.shields.io/badge/Data_Classification-1_source-2CA02C)
+| Skill | Evidence Level | Supporting Certifications |
+|-------|----------------|---------------------------|
+| **Python** <br> 🟢🟢🟢🟢 4 sources | **Advanced** | • Applied Data Science with Python - Level 2<br>• Python for Data Science<br>• Data Science Foundations - Level 2 (V2)<br>• Data Science Foundations - Level 1 |
+| **Data Science** <br> 🟢🟢🟢 3 sources | **Advanced** | • Python for Data Science<br>• Data Science Foundations - Level 2 (V2)<br>• Data Science Foundations - Level 1 |
+| **Statistics** <br> 🟡🟡 2 sources | **Intermediate** | • Data Science Foundations - Level 2 (V2)<br>• Data Science Foundations - Level 1 |
+| **Scala** <br> 🟡🟡 2 sources | **Intermediate** | *Multiple verified sources* |
 
-### 🎨 Design & Innovation
-![Design Principles](https://img.shields.io/badge/Design_Principles-1_source-FF69B4)
-![Empathy](https://img.shields.io/badge/Empathy-1_source-32CD32)
-![Experience Design](https://img.shields.io/badge/Experience_Design-1_source-8B4513)
-![Idea Generation](https://img.shields.io/badge/Idea_Generation-1_source-FFD700)
+### 📊 Data Science & ML Specializations
+
+| Skill | Evidence Level | Supporting Certification |
+|-------|----------------|--------------------------|
+| **Bokeh** | 🔵 1 source | Applied Data Science with Python - Level 2 |
+| **Cluster Analysis** | 🔵 1 source | Machine Learning with Python - Level 1 |
+| **Data Classification** | 🔵 1 source | Machine Learning with Python - Level 1 |
+| **Matplotlib** | 🔵 1 source | Applied Data Science with Python - Level 2 |
+| **Pandas** | 🔵 1 source | Python for Data Science |
+| **R** | 🔵 1 source | Data Science Foundations - Level 1 |
+| **Recommender Systems** | 🔵 1 source | Machine Learning with Python - Level 1 |
+| **Regression Analysis** | 🔵 1 source | Machine Learning with Python - Level 1 |
+| **Supervised Learning** | 🔵 1 source | Machine Learning with Python - Level 1 |
+| **Unsupervised Learning** | 🔵 1 source | Machine Learning with Python - Level 1 |
+
+### 🎨 Design & Innovation Skills
+
+| Skill | Evidence Level | Supporting Certification |
+|-------|----------------|--------------------------|
+| **Design Principles** | 🔵 1 source | Enterprise Design Thinking Practitioner |
+| **Empathy** | 🔵 1 source | Enterprise Design Thinking Practitioner |
+| **Experience Design (XD)** | 🔵 1 source | Enterprise Design Thinking Practitioner |
+| **Idea Generation** | 🔵 1 source | Enterprise Design Thinking Practitioner |
+| **User Centered Design (UCD)** | 🔵 1 source | Enterprise Design Thinking Practitioner |
+| **User Experience Design (UX)** | 🔵 1 source | Enterprise Design Thinking Practitioner |
+| **User Research** | 🔵 1 source | Enterprise Design Thinking Practitioner |
+
+---
+
+<div align="center">
+
+*🎯 All skills verified by IBM through Credly platform with evidence-based validation*
+
 </div>
 
 ### Socials
