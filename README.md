@@ -67,8 +67,6 @@ I'm a strategic leader passionate about bridging the gap between business object
 </div>
 
 
-
-
 ## 🛠️ Skills Wallet
 
 **Credly Verified Technical Skills**
