@@ -54,32 +54,40 @@ I'm a strategic leader passionate about bridging the gap between business object
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/applied-data-science-python-level2.png" width="120" height="120">
-<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/data-science-foundations-level-1.png" width="120" height="120">
-<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/data-science-foundations-level-2-(v2).png" width="120" height="120">
+<!-- First Row -->
+<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/applied-data-science-python-level2.png" width="80" height="80">
+<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/data-science-foundations-level-1.png" width="80" height="80">
+<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/data-science-foundations-level-2-(v2).png" width="80" height="80">
 
 <br>
 
-<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/machine-learning-with-python-level-1.png" width="120" height="120">
-<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/python-for-data-science.png" width="120" height="120">
-<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/enterprise-design-thinking-practitioner.png" width="120" height="120">
+<!-- Second Row -->
+<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/machine-learning-with-python-level-1.png" width="80" height="80">
+<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/python-for-data-science.png" width="80" height="80">
+<img src="https://raw.githubusercontent.com/er-varunkumar/assets/main/enterprise-design-thinking-practitioner.png" width="80" height="80">
 
 </div>
 
-## 🛠️ Skills Wallet
+# 🛠️ Skills Wallet
 
-**Credly Verified Technical Skills**
+## Credly Verified Skills
 
-| Skill | Evidence | Proficiency |
-|-------|----------|-------------|
-| ![Python](https://img.shields.io/badge/Python-4EAA25?logo=python&logoColor=white) | **4 sources** | Advanced |
-| ![Data Science](https://img.shields.io/badge/Data_Science-8A2BE2) | **3 sources** | Advanced |
-| ![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white) | **2 sources** | Intermediate |
-| ![Statistics](https://img.shields.io/badge/Statistics-4DC730) | **2 sources** | Intermediate |
-| ![Bokeh](https://img.shields.io/badge/Bokeh-FF7F0E) | **1 source** | Intermediate |
+### 🐍 Core Technical
+![Python](https://img.shields.io/badge/Python-4_sources-3776AB?logo=python) 
+![Data Science](https://img.shields.io/badge/Data_Science-3_sources-8A2BE2)
+![Scala](https://img.shields.io/badge/Scala-2_sources-DC322F)
+![Statistics](https://img.shields.io/badge/Statistics-2_sources-4DC730)
 
-*Verified by Credly - Evidence-based skill validation*
+### 📊 Data Science Specializations
+![Bokeh](https://img.shields.io/badge/Bokeh-1_source-FF7F0E)
+![Cluster Analysis](https://img.shields.io/badge/Cluster_Analysis-1_source-1F77B4)
+![Data Classification](https://img.shields.io/badge/Data_Classification-1_source-2CA02C)
 
+### 🎨 Design & Innovation
+![Design Principles](https://img.shields.io/badge/Design_Principles-1_source-FF69B4)
+![Empathy](https://img.shields.io/badge/Empathy-1_source-32CD32)
+![Experience Design](https://img.shields.io/badge/Experience_Design-1_source-8B4513)
+![Idea Generation](https://img.shields.io/badge/Idea_Generation-1_source-FFD700)
 </div>
 
 ### Socials
